@@ -47,4 +47,11 @@ DC1 has to have a static Private IP Address (Class A - 10.0.2.15 : 255.0.0.0 : 1
 <br />
 <p>
 <img src="https://i.imgur.com/U0fu22I.png" height="180%" width="180%" alt="Ping Success"/>
+<img src="https://i.imgur.com/2xKzXMC.png" alt="Domain Added"/>
+<img src="https://i.imgur.com/wT0ukXA.png" alt="Computer Added to Server"/>
+</p>
+
+<p>
+Lets add a user on the server by going onto Active Directory User and Computers, inside User folder you will right click on an empty space - New < User. Now login onto client1 vm with new user's credentials.
+<img src="https://i.imgur.com/ewlIaXB.png" alt="User Login"/>
 </p>
